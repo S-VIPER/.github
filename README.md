@@ -81,11 +81,11 @@ S-viper – это **сервис для подбора и организаци�
 #### Документация
 
 - **Drawio диаграммы**  
-  [Инфраструктура будущего решения, MVP инфраструктура и схема БД](https://github.com/S-VIPER/.github-private/tree/main/drawio-architecture)
+  [Инфраструктура будущего решения, MVP инфраструктура и схема БД](https://github.com/S-VIPER/.github/tree/main/drawio-architecture)
  
   
 - **SQL и NoSQL схемы**  
-  [Схема NoSQL БД (MongoDB) и SQL(пока не используется)](https://github.com/S-VIPER/.github-private/blob/main/README_BD.md)
+  [Схема NoSQL БД (MongoDB) и SQL(пока не используется)](https://github.com/S-VIPER/.github/blob/main/database_schema.md)
 
 
 ## 🚀 Быстрый старт
